@@ -2,6 +2,7 @@
 
 #include<cstddef>
 #include<algorithm>
+#include<compare>
 
 template<std::size_t i>
 struct fixed_string

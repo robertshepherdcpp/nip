@@ -1,6 +1,7 @@
 #pragma once
 
 #include<cstddef>
+#include<algorithm>
 
 template<std::size_t i>
 struct fixed_string
